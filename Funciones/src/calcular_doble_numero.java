@@ -7,7 +7,7 @@ public class calcular_doble_numero {
         int resultado = doblenumero(5);
         System.out.println("el resultado del doble del numero es: " +resultado);
 
-       
+
 
     }
 }
